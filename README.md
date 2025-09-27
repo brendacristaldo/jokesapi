@@ -1,7 +1,4 @@
 # 🃏 Gerador de Piadas
-
-![Status: Concluído](https://img.shields.io/badge/status-concluído-brightgreen)
-
 Uma Single Page Application (SPA) desenvolvida em React.js para buscar, exibir e filtrar piadas, utilizando a [JokeAPI](https://v2.jokeapi.dev/).
 
 Este projeto foi desenvolvido como o **Projeto 1 da disciplina de Programação Web Fullstack**, com o objetivo de aplicar conceitos de desenvolvimento frontend com React.js, componentização, gerenciamento de estado e consumo de APIs.
@@ -48,11 +45,10 @@ Para rodar este projeto localmente, siga os passos abaixo:
     ```bash
     git clone [https://github.com/seu-usuario/gerador-de-piadas.git](https://github.com/seu-usuario/gerador-de-piadas.git)
     ```
-    *(Lembre-se de substituir pela URL do seu repositório no GitHub)*
 
 2.  **Acesse a pasta do projeto**
     ```bash
-    cd gerador-de-piadas
+    cd jokesgenerate
     ```
 
 3.  **Instale as dependências**
@@ -71,11 +67,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 ---
 
-### 👩‍💻 Desenvolvido por
+### 👩‍💻 Desenvolvido por Brenda Beatriz Cristaldo:
 
-Feito com ❤️ por **Brenda Beatriz Cristaldo**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-github/)
-
-*(Dica: Substitua os links pelos do seu perfil!)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-cristaldo/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brendacristaldo/)
